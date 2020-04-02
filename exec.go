@@ -1,4 +1,4 @@
-package task
+package devkit
 
 import task "github.com/devfeel/dottask"
 
